@@ -74,9 +74,9 @@ const yourtext = document.querySelector("#your-message");
 function sendEmail() {
   Email.send({
     Host: "smtp.gmail.com",
-    Username: "vkkrashna@gmail.com",
+    Username: "pradeep@gmail.com",
     Password: "760059CF92ACE7BE92780CE52A841E04F951",
-    To: "krishnakandgule585@gmail.com",
+    To: "pradeeppanchal377@gmail.com",
     From: youremail.value,
     Subject: "New Contact Form Enquiry",
     Body:
